@@ -8,4 +8,4 @@ greeting
 greeting
 greeting
 
-ruby greeting.rb 
+ruby greeting.rb
