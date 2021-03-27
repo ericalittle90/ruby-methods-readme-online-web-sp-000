@@ -7,5 +7,11 @@ greeting
 greeting
 greeting
 greeting
+greeting
+greeting
+greeting
+greeting
+greeting
+greeting
 
 ruby greeting.rb
